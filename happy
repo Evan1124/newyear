@@ -1,0 +1,6 @@
+# newyear
+include<stdio.h>
+int main()
+{ prinf("happy new year\n");
+  return 0;
+  }
